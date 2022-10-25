@@ -17,5 +17,4 @@ Elementwise
    elementwise/lcm.rst
    elementwise/fmod.rst
    elementwise/fmax.rst
-   elementwise/trapz.rst
 
